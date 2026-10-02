@@ -11,7 +11,7 @@ attention + JDPM frequency multi-scale block — extended with four enhancements
 | E4 | Monte Carlo dropout | Estimate uncertainty and refer doubtful cases |
 
 ## ▶ Live demo
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snehasanjay/DR-Grading-HybridViT/blob/main/demo.ipynb)
 
 Open `demo.ipynb` in Google Colab → *Runtime → Run all* → upload a fundus photograph.
 The model returns the DR grade, class probabilities, a Grad-CAM heatmap, its uncertainty,
